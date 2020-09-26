@@ -11,7 +11,7 @@ public class Financial_Services {
         if(1 < 2){
             System.out.println("慧小贷业务部成立2周年庆典");
         }else {
-            System.out.println("慧小贷业务新增需求");
+            System.out.println("慧小贷新增需求");
         }
 
 //        新增注释
